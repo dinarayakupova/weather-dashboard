@@ -2,7 +2,7 @@ const api = {
     //link to get the access
     endpoint:"https://api.openweathermap.org/data/2.5/",
      //API KEY
-    key: "c913d02ecc8d781f740a34ac2427f209" 
+    key: "YOUR API KEY" 
     
 }
 
